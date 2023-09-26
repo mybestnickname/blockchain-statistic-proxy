@@ -1,0 +1,17 @@
+app:
+  address: localhost:5555
+  log_file: "logs/api_logs.log"
+  log_level: debug
+
+coingecko:
+  api: https://api.coingecko.com/api/v3
+
+etherscan:
+  api: https://api.etherscan.io
+  apikey: etherscan_apikey
+  contractaddress: etherscan_contractaddress
+
+bscscan:
+  api: https://api.bscscan.com
+  apikey: bscscan_apikey
+  contractaddress: bscscan_contractaddress

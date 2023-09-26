@@ -1,0 +1,7 @@
+.idea
+*.iml
+.vscode
+tmp
+
+config.yaml
+api_logs.log
